@@ -18,13 +18,13 @@ The purpose of this project is to create visuals that will help Louise make an i
 
 Analysis and challenges:
 
-Picture 1:
+Picture 1:![Screen Shot 2020-07-19 at 7.58.03 PM](path/to/image_name.png).
  
 
-Picture 2:
+Picture 2:!Screen Shot 2020-07-19 at 7.57.40 PM(path/to/image_name.png).
  
 
-Picture 3:
+Picture 3:!Screen Shot 2020-07-19 at 7.54.33 PM(path/to/image_name.png).
  
 
 To be able to analyze the campaign launch dates and funding goals, it was easier to put them in graphs. For example in picture one you are able to see the relationship of the launch date to the play failing or not. In picture 2, you can see the relationship of the outcomes the goals. (I added picture 3 because I could not get my graph to look like the one in the module’s).
